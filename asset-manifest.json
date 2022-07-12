@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Add-Goals-App-React/static/css/main.54b784f1.chunk.css",
+    "main.js": "/Add-Goals-App-React/static/js/main.0d177462.chunk.js",
+    "main.js.map": "/Add-Goals-App-React/static/js/main.0d177462.chunk.js.map",
+    "runtime-main.js": "/Add-Goals-App-React/static/js/runtime-main.e531dfcd.js",
+    "runtime-main.js.map": "/Add-Goals-App-React/static/js/runtime-main.e531dfcd.js.map",
+    "static/js/2.f3a46495.chunk.js": "/Add-Goals-App-React/static/js/2.f3a46495.chunk.js",
+    "static/js/2.f3a46495.chunk.js.map": "/Add-Goals-App-React/static/js/2.f3a46495.chunk.js.map",
+    "index.html": "/Add-Goals-App-React/index.html",
+    "static/css/main.54b784f1.chunk.css.map": "/Add-Goals-App-React/static/css/main.54b784f1.chunk.css.map",
+    "static/js/2.f3a46495.chunk.js.LICENSE.txt": "/Add-Goals-App-React/static/js/2.f3a46495.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e531dfcd.js",
+    "static/js/2.f3a46495.chunk.js",
+    "static/css/main.54b784f1.chunk.css",
+    "static/js/main.0d177462.chunk.js"
+  ]
+}
